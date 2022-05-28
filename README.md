@@ -1,6 +1,14 @@
 # Worderize
 Learn a new language more effectively!
 </br></br>
+Download links for Worderize
+</br>
+https://github.com/Northstrix/Worderize
+</br>
+https://sourceforge.net/projects/worderize/
+</br>
+https://osdn.net/projects/worderize/releases/77363
+</br></br>
 This program requires MongoDB Community Server to be installed on your computer.
 </br>
 You can get it here https://www.mongodb.com/try/download/community
