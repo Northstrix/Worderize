@@ -25,5 +25,8 @@ Worderize Screenshots
 ![image text](https://github.com/Northstrix/Worderize/blob/main/v1.0-C%23/Pictures/Add_record_0.png)
 </br></br>
 Worderize Lite Screenshots
-![image text](https://github.com/Northstrix/Worderize/blob/main/v1.0.lite-java/Pictures/add_rec_wrd_lite.png)
-![image text](https://github.com/Northstrix/Worderize/blob/main/v1.0.lite-java/Pictures/Worderize_Lite.png)
+![image text](https://github.com/Northstrix/Worderize/blob/main/v2.0.lite-java/Pictures/Worderize%20lite.png)
+![image text](https://github.com/Northstrix/Worderize/blob/main/v2.0.lite-java/Pictures/triplet1.png)
+![image text](https://github.com/Northstrix/Worderize/blob/main/v2.0.lite-java/Pictures/triplet2.png)
+![image text](https://github.com/Northstrix/Worderize/blob/main/v2.0.lite-java/Pictures/add_word.png)
+![image text](https://github.com/Northstrix/Worderize/blob/main/v2.0.lite-java/Pictures/view_word.png)
