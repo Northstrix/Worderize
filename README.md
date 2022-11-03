@@ -20,6 +20,8 @@ Worderize Lite only requires java to be installed on your computer.
 You can download java here https://www.java.com/en/ 
 </br></br>
 Worderize Screenshots
+
+![image text](https://github.com/Northstrix/Worderize/blob/main/v2.1.lite-java/Pictures/Worderize%20lite.png)
 ![image text](https://github.com/Northstrix/Worderize/blob/main/v1.0-C%23/Pictures/Add_record_1.png)
 ![image text](https://github.com/Northstrix/Worderize/blob/main/v1.0-C%23/Pictures/Worderize.png)
 ![image text](https://github.com/Northstrix/Worderize/blob/main/v1.0-C%23/Pictures/Add_record_0.png)
